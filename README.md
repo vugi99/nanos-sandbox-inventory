@@ -1,2 +1,3 @@
 # nanos-sandbox-inventory
-Inventory for the official sandbox
+
+### Requires modularity and pickable-inventory
